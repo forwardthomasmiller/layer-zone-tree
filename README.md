@@ -2,7 +2,7 @@
 ### A Navigation System for AI-Generated Code
 
 > **Keep Your Map While AI Draws the Territory**
-> A Practical Guide for Vibe Coders
+> A Practical Vibe Coding Guide • AI Coding Architecture • Claude Code Best Practices
 
 ---
 
@@ -24,7 +24,7 @@ You're no longer directing AI—you're **guessing**.
 
 ## The Solution
 
-**Layer-Zone Tree** is a simple system for organizing AI-generated code:
+**Layer-Zone Tree** is a simple AI coding architecture system for organizing AI-generated code. This guide shows you how to organize AI-generated code and maintain clarity as your project scales:
 
 1. **Layer** — Divide code by technical role (UI / Logic / Data)
 2. **Zone** — Group files by business responsibility within each layer
@@ -36,11 +36,13 @@ You're no longer directing AI—you're **guessing**.
 
 ## What You'll Learn
 
+This **Vibe Coding guide** teaches practical **Claude Code best practices** for real-world projects:
+
 - Why Vibe Coding inevitably leads to a "black box" (and how to prevent it)
-- How to classify 60k+ lines of code in minutes (with AI's help)
-- The "panoramic photo" method: see structure, dependencies, violations
+- **How to organize AI-generated code** at scale (60k+ lines)
+- The "panoramic photo" method: see structure, dependencies, violations at a glance
 - Progressive transformation: improve existing projects without stopping development
-- Sustainable workflow: Vibe Coding + periodic photos = continuous clarity
+- Sustainable workflow: rapid AI development + architectural clarity
 
 ---
 
@@ -172,6 +174,12 @@ Found a typo? Have a suggestion? Want to share your Layer-Zone Tree?
 - 💬 [Start a Discussion](https://github.com/forwardthomasmiller/layer-zone-tree/discussions)
 - 🐛 [Report an Issue](https://github.com/forwardthomasmiller/layer-zone-tree/issues)
 - 🌟 Star this repo if it helped you!
+
+---
+
+## Keywords & Topics
+
+`AI coding architecture` • `Vibe Coding guide` • `Claude Code best practices` • `How to organize AI-generated code` • `AI development workflow` • `Code organization system` • `Architecture for non-programmers` • `Claude AI` • `Cursor AI` • `GitHub Copilot` • `Software architecture` • `Project structure`
 
 ---
 
