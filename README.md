@@ -189,6 +189,7 @@ Found a typo? Have a suggestion? Want to share your Layer-Zone Tree?
 
 Not a computer science graduate. Not an architecture expert. Just someone who needed a map.
 
+- 🐦 Twitter: [@hithomasmiller](https://twitter.com/hithomasmiller)
 - 📧 Email: forwardthomasmiller@icloud.com
 
 ---

@@ -62,6 +62,7 @@ For major changes:
 
 Not sure about something? Just ask!
 - [Discussions](https://github.com/forwardthomasmiller/layer-zone-tree/discussions)
+- Twitter: [@hithomasmiller](https://twitter.com/hithomasmiller)
 - Email: forwardthomasmiller@icloud.com
 
 ## Code of Conduct
