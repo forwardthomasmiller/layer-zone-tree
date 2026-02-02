@@ -6,19 +6,19 @@ Thank you for your interest in contributing! This guide helps keep things organi
 
 ### 1. Report Issues
 Found a typo, broken link, or unclear explanation?
-- Check [existing issues](https://github.com/yourusername/layer-zone-tree/issues)
-- If not found, [create a new issue](https://github.com/yourusername/layer-zone-tree/issues/new)
+- Check [existing issues](https://github.com/forwardthomasmiller/layer-zone-tree/issues)
+- If not found, [create a new issue](https://github.com/forwardthomasmiller/layer-zone-tree/issues/new)
 - Be specific: which file, which section, what's the problem
 
 ### 2. Suggest Improvements
 Have an idea to make the guide better?
-- Open a [Discussion](https://github.com/yourusername/layer-zone-tree/discussions)
+- Open a [Discussion](https://github.com/forwardthomasmiller/layer-zone-tree/discussions)
 - Explain your suggestion
 - Share why it would help readers
 
 ### 3. Share Your Layer-Zone Tree
 Built your own Layer-Zone Tree? We'd love to see it!
-- Share in [Show and Tell](https://github.com/yourusername/layer-zone-tree/discussions/categories/show-and-tell)
+- Share in [Show and Tell](https://github.com/forwardthomasmiller/layer-zone-tree/discussions/categories/show-and-tell)
 - Include: project size, language, what you learned
 - Help inspire other Vibe Coders
 
@@ -61,9 +61,8 @@ For major changes:
 ## Questions?
 
 Not sure about something? Just ask!
-- [Discussions](https://github.com/yourusername/layer-zone-tree/discussions)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+- [Discussions](https://github.com/forwardthomasmiller/layer-zone-tree/discussions)
+- Email: forwardthomasmiller@icloud.com
 
 ## Code of Conduct
 

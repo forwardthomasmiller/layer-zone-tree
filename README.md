@@ -169,8 +169,8 @@ This book focuses on **L** and **Z**. The Tree makes them visible.
 
 Found a typo? Have a suggestion? Want to share your Layer-Zone Tree?
 
-- 💬 [Start a Discussion](https://github.com/yourusername/layer-zone-tree/discussions)
-- 🐛 [Report an Issue](https://github.com/yourusername/layer-zone-tree/issues)
+- 💬 [Start a Discussion](https://github.com/forwardthomasmiller/layer-zone-tree/discussions)
+- 🐛 [Report an Issue](https://github.com/forwardthomasmiller/layer-zone-tree/issues)
 - 🌟 Star this repo if it helped you!
 
 ---
@@ -181,8 +181,7 @@ Found a typo? Have a suggestion? Want to share your Layer-Zone Tree?
 
 Not a computer science graduate. Not an architecture expert. Just someone who needed a map.
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
+- 📧 Email: forwardthomasmiller@icloud.com
 
 ---
 
